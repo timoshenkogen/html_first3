@@ -1,0 +1,10 @@
+body{
+	background: #bedbed;
+}
+
+.floatRight{
+	float: right;
+	height: 30%;
+	margin: 5px 5px 5px 5px;
+	border-radius: 5px;
+}
